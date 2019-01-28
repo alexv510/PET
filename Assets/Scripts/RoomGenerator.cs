@@ -19,7 +19,7 @@ public class RoomGenerator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("CurrentRoom:" + currentRooms);
+        
     }
 
     void AddRoom(float farthestRoomEndX)

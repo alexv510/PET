@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PET/Scenes/Gameplay.unity
     guid: d1e98dbcdc841bb4287bbb8b3e73c7ae
+  - enabled: 1
+    path: Assets/PET/Scenes/Death.unity
+    guid: 3e8a6fddb0d15d94bb53abc832a507d4
   m_configObjects: {}

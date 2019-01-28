@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/PET/Scenes/Instructions.unity
+- path: Assets/PET/Scenes/Gameplay.unity
   isLoaded: 1
   isActive: 1
